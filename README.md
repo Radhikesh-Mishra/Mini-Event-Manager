@@ -56,16 +56,6 @@ A full-stack event management application where users can register, view, and ma
    npm install
    npm run dev```
 
-## 📁 Project Structure
-
-```plaintext
-mini-event-manager/
-├── backend/
-├── frontend/
-│   
-└── README.md
- ```
-
 ## Screenshots
 ![WhatsApp Image 2025-06-11 at 6 25 35 PM](https://github.com/user-attachments/assets/bcc90c3e-759e-492a-957c-e2a275e2c9f1)
 ![WhatsApp Image 2025-06-11 at 6 25 50 PM](https://github.com/user-attachments/assets/806b978a-3866-4250-8ab8-7b3bf8c2acb1)
