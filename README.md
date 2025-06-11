@@ -56,3 +56,31 @@ A full-stack event management application where users can register, view, and ma
    npm install
    npm run dev```
 
+## 📁 Project Structure
+
+```plaintext
+appointment-app/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── AppointmentForm.jsx
+│   │   └── AppointmentList.jsx
+│   ├── redux/
+│   │   ├── store.js
+│   │   └── userSlice.js
+│   ├── App.js
+│   ├── App.css
+│   └── main.js
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
+ ```
+
+## Screenshots
+![WhatsApp Image 2025-06-11 at 6 24 57 PM](https://github.com/user-attachments/assets/ce43c519-6260-47c5-8211-4044f4d465ce)
+![WhatsApp Image 2025-06-11 at 6 25 35 PM](https://github.com/user-attachments/assets/bcc90c3e-759e-492a-957c-e2a275e2c9f1)
+![WhatsApp Image 2025-06-11 at 6 25 50 PM](https://github.com/user-attachments/assets/806b978a-3866-4250-8ab8-7b3bf8c2acb1)
+![WhatsApp Image 2025-06-11 at 6 24 21 PM](https://github.com/user-attachments/assets/be803e14-bab8-4742-b59f-d08ebc347530)
+![WhatsApp Image 2025-06-11 at 6 25 18 PM](https://github.com/user-attachments/assets/7af92d18-379d-4579-b724-fee5e7ea40a9)
